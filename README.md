@@ -16,6 +16,8 @@ pip install nltk
 
 #### Combined_data.csv is downloaded from Kaggle.com
 
+You can download it from this link too: https://drive.google.com/file/d/1Pp9igB3Swwku4YK8NkLfQVKHaU28tlBG/view?usp=drive_link
+
 ## Preprocessing
 
 1. Text Cleaning and Tokenization: The raw text is cleaned, tokenized, and stopwords are removed. Stemming is applied using the NLTK PorterStemmer. 
