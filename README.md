@@ -1,3 +1,7 @@
+#Updated:
+Watch full video of our Project after we deployed in AWS: https://youtu.be/v_HmlFKqfx0?si=i3Gdbj9V6fkd93zz
+We used flask api, nginx, and AWS
+
 # Spam Detection using LSTM with PyTorch
 This project implements a spam detection model using a Long Short-Term Memory (LSTM) network built with PyTorch. The dataset consists of email or message text and corresponding labels indicating whether the message is spam or not. We preprocess the text, convert it into numerical vectors, and train an LSTM model to classify the messages. The final model is saved for future use to predict whether a given message is spam.
 
